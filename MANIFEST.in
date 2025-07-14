@@ -1,0 +1,7 @@
+include README.md
+include requirements.txt
+include LICENSE
+recursive-include heyrudra/prompts *.txt
+recursive-include heyrudra *.py
+global-exclude __pycache__
+global-exclude *.py[co]
