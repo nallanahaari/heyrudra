@@ -53,8 +53,8 @@ setup(
     },
     keywords="ai, cli, shell, commands, natural-language, automation",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/heyrudra/issues",
-        "Source": "https://github.com/yourusername/heyrudra",
-        "Documentation": "https://github.com/yourusername/heyrudra#readme",
+        "Bug Reports": "https://github.com/nallanahaari/heyrudra/issues",
+        "Source": "https://github.com/nallanahaari/heyrudra",
+        "Documentation": "https://github.com/nallanahaari/heyrudra#readme",
     },
 )
